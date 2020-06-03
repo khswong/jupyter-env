@@ -1,0 +1,12 @@
+anaconda 
+jupyter 
+numpy 
+matplotlib 
+pandas 
+scikit-learn 
+datetime 
+scipy 
+soundfile 
+sympy 
+statsmodels 
+sounddevice

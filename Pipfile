@@ -13,6 +13,11 @@ matplotlib = "*"
 pandas = "*"
 scikit-learn = "*"
 datetime = "*"
+scipy = "*"
+soundfile = "*"
+sympy = "*"
+statsmodels = "*"
+sounddevice = "*"
 
 [requires]
 #python_version = "3.7"
